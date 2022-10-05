@@ -1,0 +1,1 @@
+var computerParts = ['CPU', 'GPU', 'RAM', 'Motherboard', 'PSU']
